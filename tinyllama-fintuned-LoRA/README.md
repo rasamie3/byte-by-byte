@@ -1,0 +1,1 @@
+My first fine-tuned model using LoRA. I have used small model called Tinyllama to be able to train it on Google Colab for free.
